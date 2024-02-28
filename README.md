@@ -65,3 +65,9 @@ The next step is to visualize and explore each variable over the years. We aim t
 ![Government Debt](https://github.com/Jamaderibigbe/Nigeria-Economy-Growth-1990-2023--Excel/blob/main/Government%20Debt.PNG)
 
 > Nigeria's national government debt peaked at 75% in 1991 and hit its lowest point at 7.30% in 2008. However, between 2008 and 2023, the debt rate steadily increased to approximately 35.58%
+
+#### Gross Domestic Product (GDP Billion Naira)
+
+![Gross Domestic Product (GDP Billion Naira)](https://github.com/Jamaderibigbe/Nigeria-Economy-Growth-1990-2023--Excel/blob/main/GDP%20at%202010.PNG)
+
+> We observed a gradual increase in GDP at 2010 Constant Basic Prices and GDP at 2010 Constant Market Prices, reaching an all-time high in 2022. However, the reason behind this surge is   currently unknown. Interestingly, both indicators show a decline moving towards 2023.
