@@ -45,5 +45,23 @@ These are the summary statistics for each variable in our dataset
 --
 ![](https://github.com/Jamaderibigbe/Nigeria-Economy-Growth-1990-2023--Excel/blob/main/Descriptive%202.PNG)
 
-The next step is to visualize and explore each variable over the years. We aim to understand how inflation rate, unemployment, government debt, and other numerical variables have changed over time. To achieve this, we will insert a pivot table, allowing us to analyze the data and visualize the trends more effectively. Let's proceed by inserting a pivot table.
+The next step is to visualize and explore each variable over the years. We aim to understand how inflation rate, unemployment, government debt, and other numerical variables have changed over time. To achieve this, we will insert a pivot table, allowing us to analyze the data and visualize the trends more effectively. Let's proceed by inserting a pivot table and chart.
 
+#### Unemployment Rate:
+
+![Unemployment rate](https://github.com/Jamaderibigbe/Nigeria-Economy-Growth-1990-2023--Excel/blob/main/unemployment%20rate.PNG)
+
+> The data shows that In the absence of action from the Nigerian government, Nigeria's unemployment rate rose from 33.30% in 2020 to 37.7% in 2022
+
+
+#### Inflation Rate:
+
+![Inflation Rate](https://github.com/Jamaderibigbe/Nigeria-Economy-Growth-1990-2023--Excel/blob/main/inflation%20rate.PNG)
+
+> Price stability is crucial for a healthy economy. Inflation peaked at around 72.84% in 1995 but has since fluctuated. In 2022, Nigeria's inflation rate was 17%, up from 13.20% in 2020   and 11.40% in 2019. However, there was a decrease to 12.09% in 2017.
+
+#### Government Debt:
+
+![Government Debt](https://github.com/Jamaderibigbe/Nigeria-Economy-Growth-1990-2023--Excel/blob/main/Government%20Debt.PNG)
+
+> Nigeria's national government debt peaked at 75% in 1991 and hit its lowest point at 7.30% in 2008. However, between 2008 and 2023, the debt rate steadily increased to approximately 35.58%
